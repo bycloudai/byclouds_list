@@ -50,7 +50,7 @@ You can become a major contributor by
 
 Major contributors will get credited in a seperate section on the credits page, where you can link your individual socials.
 
-You can apply to become one directly through the Issues page, or through discord's #-Documentation_chat. 
+You can apply to become one directly through the Issues page, or through [discord](https://discord.com/invite/NhJZGtH)'s #-Documentation_chat. 
 
 Since a documentation is quite some hassle to make, I suggest that becoming a major contributor would be more worth it as you can get credited more from the work you have done. 
 
