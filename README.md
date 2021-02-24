@@ -1,7 +1,7 @@
 # [bycloud's List](https://www.notion.so/bycloud-s-list-995a1900326b40438df2db65d5175c9e)
 A compiled list of information on ML/AI papers results reproducibility/runnability, library versions compatibilities, common installation errors/fixes, and miscellaneous documentations related to AI/ML installations.
 
-[Home Page](https://www.notion.so/bycloud-s-list-995a1900326b40438df2db65d5175c9e)
+| [Home Page](https://www.notion.so/bycloud-s-list-995a1900326b40438df2db65d5175c9e) |
 
 This is hosted on Notion for the ease of layout editing, and also to provide a nicer user experience. 
 
