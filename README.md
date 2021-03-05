@@ -28,7 +28,7 @@ If you are looking to contribute to my project, please kindly head to the Issues
 The "issues" can include:
 - Runnability (on specific OS or an entire GitHub)
 - Libraries Versions Compatibility
-- Documentations (please see "[Become a Major Contributor](https://github.com/bycloudai/byclouds_list/blob/main/README.md#become-a-major-contributor)" below)
+- Documentations (please see "[Become a Major Contributor](https://github.com/bycloudai/byclouds_list#become-a-major-contributor)" below)
 
 All small contributions will be noted!
 
